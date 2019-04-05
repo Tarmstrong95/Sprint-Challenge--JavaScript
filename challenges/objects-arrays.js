@@ -5,11 +5,11 @@
   Use this pattern to create your objects: 
   object name, diet, weight, length, period
 */
-class Dino { //didnt say i couldnt use it
+class Dino { 
   constructor(name, diet, weight, length, period){
     this.name = name;
     this.diet = diet;
-    this.weight = weight; 
+    this.weight = weight; //didnt say i couldnt use it
     this.length = length;
     this.period = period;
   }
